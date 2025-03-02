@@ -75,4 +75,4 @@ To deploy the application using Docker, follow these steps:
 
 Trained for 500 steps with checkpointing after every 100 steps
 
-![Training logs chart](images\training_logs.png)
+![Training logs chart](images/training_logs.png)
