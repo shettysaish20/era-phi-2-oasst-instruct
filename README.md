@@ -1,4 +1,4 @@
-# Phi-2 Finetuning model demo
+# Phi-2 Model Fine-tuning Demo
 
 ## Introduction
 
