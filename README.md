@@ -2,8 +2,6 @@
 
 ## Introduction
 
-As part of The School of AI's ERA-V3 course's Assignment 18- I have fine-tuned an open-source phi-2 model by Microsoft on the OASST-1 (Open Assistant) dataset.
-
 This repository contains a Gradio-based web application for generating text using a fine-tuned Phi-2 model with PEFT adapters. The application allows users to input prompts and generate text based on those prompts. It also includes sample questions that users can click to quickly generate text.
 
 ## Sources
